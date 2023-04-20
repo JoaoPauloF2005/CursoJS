@@ -4,6 +4,7 @@
 // Não podem conter espaços ou traços
 // Utilizamos camelCase
 // Case-sensitive
+// NÃO UTILIZE VAR, UTILIZE LET
 
 
 
